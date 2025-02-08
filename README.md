@@ -1,14 +1,18 @@
 ## <div align="center">Hola , soy Ramiro Franchino 👋</div>  
   
 
-#### <div align="center">Desarrollador Backend | Estudiante de Programación UTN</div>  
+#### <div align="center">Desarrollador Backend</div>  
+  
+
+💻 Me encuentro cursando el ultimo año de la Tecnicatura Universitaria en Programacion en la UTN, ademas de estar realizando cursos por mi cuenta.  
   
 
 
 
 ### Social  
-✉️ Mail: ramiro.franchino@gmail.com
-  
+Mail: ramiro.franchino@gmail.com 
+
+Linkedin: www.linkedin.com/in/ramirofranchino  
   
 
 <br/>  
